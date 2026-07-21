@@ -1,0 +1,7 @@
+from Classroom import Classroom
+def main():
+    classroom = Classroom()
+    classroom.start_class()
+    
+if __name__=="__main__":
+    main()
